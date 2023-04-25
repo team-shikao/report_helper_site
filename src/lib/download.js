@@ -1,1 +1,1 @@
-export const filePath = "/hoge.zip";
+export const filePath = "/app/ReportHelper-v0.1.zip";

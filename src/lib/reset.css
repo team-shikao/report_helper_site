@@ -123,4 +123,5 @@ section#mainContent p {
 }
 section#mainContent img {
     margin: 15px;
+    max-height: 400px;
 }

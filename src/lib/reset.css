@@ -122,6 +122,7 @@ section#mainContent p {
     margin: 0 10px;
 }
 section#mainContent img {
-    margin: 15px;
+    display: block;
+    margin: 15px auto;
     max-height: 400px;
 }
